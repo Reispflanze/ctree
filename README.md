@@ -15,14 +15,8 @@ A great script to be added in your **unixporn** screenshot.
 
 **How to Install:**
  <br />
-#### Linux
-* use these commands in terminal :
+* For Linux - use these commands in terminal :
 <br />`git clone https://github.com/RohanKP1/ctree.git`
 <br />`cd ctree/`
 <br />`sudo mv ctree /usr/bin/ && chmod +x /usr/bin/ctree`
 
-#### macOS
-* use these commands in terminal :
-<br />`git clone https://github.com/RohanKP1/ctree.git`
-<br />`cd ctree/`
-<br />`sudo mv ctree /usr/local/bin/ && chmod +x /usr/local/bin/ctree`
